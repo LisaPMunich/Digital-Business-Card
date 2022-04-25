@@ -1,0 +1,5 @@
+.idea
+.parcel-cache
+node_modules
+not_public
+.DS_Store
